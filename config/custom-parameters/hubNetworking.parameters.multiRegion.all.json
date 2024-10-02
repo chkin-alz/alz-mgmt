@@ -128,13 +128,13 @@
       "value": "nsg-AzureBastionSubnet-"
     },
     "parDdosEnabled": {
-      "value": true
+      "value": false
     },
     "parDdosPlanName": {
       "value": "alz-ddos-plan-uksouth"
     },
     "parDdosEnabledSecondaryLocation": {
-      "value": true
+      "value": false
     },
     "parDdosPlanNameSecondaryLocation": {
       "value": "alz-ddos-plan-"
@@ -302,10 +302,10 @@
       "value": true
     },
     "parVpnGatewayEnabled": {
-      "value": true
+      "value": false
     },
     "parVpnGatewayEnabledSecondaryLocation": {
-      "value": true
+      "value": false
     },
     "parVpnGatewayConfig": {
       "value": {
@@ -348,7 +348,7 @@
       }
     },
     "parExpressRouteGatewayEnabled": {
-      "value": true
+      "value": false
     },
     "parExpressRouteGatewayConfig": {
       "value": {
@@ -370,7 +370,7 @@
       }
     },
     "parExpressRouteGatewayEnabledSecondaryLocation": {
-      "value": true
+      "value": false
     },
     "parExpressRouteGatewayConfigSecondaryLocation": {
       "value": {
