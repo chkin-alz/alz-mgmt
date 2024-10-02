@@ -49,7 +49,7 @@ on:
 
 jobs:
   plan_and_apply:
-    uses: chkin-alz/.github/workflows/cd-template.yaml@main
+    uses: chkin-alz/alz-mgmt/.github/workflows/cd-template.yaml@main
     name: 'CD'
     permissions:
       id-token: write
