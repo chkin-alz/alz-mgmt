@@ -9,7 +9,7 @@
       "value": ""
     },
     "parDdosEnabled": {
-      "value": true
+      "value": false
     },
     "parTopLevelPolicyAssignmentSovereigntyGlobal": {
       "value": {
@@ -42,7 +42,7 @@
       "value": "/subscriptions/312580d7-8321-4432-bbd5-a3fbc8a6d38b/resourcegroups/rg-alz-logging/providers/microsoft.operationalinsights/workspaces/alz-log-analytics"
     },
     "parLogAnalyticsWorkspaceLogRetentionInDays": {
-      "value": "365"
+      "value": "180"
     },
     "parDataCollectionRuleVMInsightsResourceId": {
       "value": "/subscriptions/312580d7-8321-4432-bbd5-a3fbc8a6d38b/resourcegroups/rg-alz-logging/providers/Microsoft.Insights/dataCollectionRules/alz-ama-vmi-dcr"
