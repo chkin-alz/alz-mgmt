@@ -82,7 +82,7 @@ jobs:
       - name: Get On Demand Folder infra-as-code
         uses: chkin-alz/alz-mgmt/.github/actions/bicep-on-demand-folder@main
         with:
-          repository: "https://github.com/Azure/ALZ-Bicep"
+          repository: "https://github.com/chkin-alz/ALZ-Bicep"
           releaseArtifactName: "accelerator.zip"
           releaseVersion: "${{ env.RELEASE_VERSION }}"
           sourcePath: "infra-as-code"
