@@ -195,7 +195,12 @@
         "privatelink.token.botframework.com",
         "privatelink.vaultcore.azure.net",
         "privatelink.web.core.windows.net",
-        "privatelink.webpubsub.azure.com"
+        "privatelink.webpubsub.azure.com",
+        "azure-api.net",
+        "portal.azure-api.net",
+        "developer.azure-api.net",
+        "management.azure-api.net",
+        "scm.azure-api.net"
       ]
     },
     "parPrivateDnsZoneAutoMergeAzureBackupZone": {
