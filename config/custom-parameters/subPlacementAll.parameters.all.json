@@ -33,7 +33,9 @@
       "value": []
     },
     "parLandingZonesCorpMgSubs": {
-      "value": []
+      "value": [
+        "62c88a9a-b01b-418c-bba8-1ecc7970c056"
+      ]
     },
     "parLandingZonesOnlineMgSubs": {
       "value": []
@@ -54,7 +56,9 @@
       "value": []
     },
     "parSandboxMgSubs": {
-      "value": []
+      "value": [
+        "267876bb-3529-4a51-b7d7-4b8d77125ca0"
+      ]
     },
     "parTelemetryOptOut": {
       "value": false
