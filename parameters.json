@@ -14,7 +14,7 @@
   "NETWORK_TYPE": "hubNetworking",
   "MANAGEMENT_GROUP_ID": "alz",
   "PREFIX": "alz",
-  "RELEASE_VERSION": "v0.0.3",
+  "RELEASE_VERSION": "v0.0.4",
   "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
   "SECONDARYLOCATION": ""
 }
